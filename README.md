@@ -5,7 +5,8 @@
 MIT
 
 ## __Description__
-This group project was created to build our first full-stack app.  This web-app is for users who want to create a running challenge for themselves and keep track of the progress.  Deployed Heroku can be found at https://projecttwo-cwru.herokuapp.com/
+This group project was created to build our first full-stack app.  This web-app is for users who want to create a running challenge for themselves and keep track of the progress.  Deployed Heroku can be found at https://buildandflex.herokuapp.com/
+
 
 ## __Collaborators__
 * [Allison Barnard](https://github.com/allisonbarnard07)
